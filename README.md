@@ -31,3 +31,9 @@ Projekt sk³ada siê z kilku kluczowych klas:
 Aby uruchomiæ grê, wykonaj nastêpuj¹ce kroki:
 - Skompiluj kod Ÿród³owy i wygeneruj plik wykonywalny.
 - Uruchom plik wykonywalny.
+
+## Przedstawienie widoku gry
+
+Poni¿ej znajduje siê zrzut ekranu przedstawiaj¹cy interfejs u¿ytkownika gry:
+
+![Widok gry](image/MasterMind.png)
